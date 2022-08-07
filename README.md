@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gerald
 - 👀 I’m interested in anything IT, Astronomy, and more.
 - 🌱 I’m currently learning Web Development.
-- 💞️ I’m looking to collaborate right now.
+- 💞️ I’m not looking to collaborate at the moment.
 - 📫 Contact me here on GitHub
 
 <!---
